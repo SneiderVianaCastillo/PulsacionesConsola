@@ -1,0 +1,40 @@
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.pdb
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\BLL.dll
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Entity.dll
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\BLL.pdb
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\Entity.pdb
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.exe
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.pdb
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\DAL.dll
+C:\Users\UNICESAR\source\repos\Pulsaciones\Pulsaciones\bin\Debug\DAL.pdb
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.pdb
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\BLL.dll
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Entity.dll
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\DAL.dll
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\BLL.pdb
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Entity.pdb
+D:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\DAL.pdb
+D:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+D:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+D:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.exe
+D:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.pdb
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.pdb
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\BLL.dll
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Entity.dll
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\DAL.dll
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\BLL.pdb
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\Entity.pdb
+F:\Programacion 3\Pulsaciones\Pulsaciones\bin\Debug\DAL.pdb
+F:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+F:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+F:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.exe
+F:\Programacion 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.pdb
